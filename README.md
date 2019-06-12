@@ -1,4 +1,4 @@
-# Android MVP
+# Android MVP In Kotlin
 This project demonstrates the MVP architecture.
 The application is CreatureMon Application.
 It has the option to select creature image, assign different attributes like intelligence, strength, endurance. Based on these attributes value, Hitpoint is calculated.
